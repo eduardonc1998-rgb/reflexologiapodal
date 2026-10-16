@@ -1,0 +1,106 @@
+{
+  "127.0.0.1:8000": [
+    {
+      "type": "document",
+      "url": "http://127.0.0.1:8000/"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/hero-bundle-BV8K8tpR.webp"
+    },
+    {
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8000/assets/styles-qEP53ygp.css"
+    },
+    {
+      "type": "script",
+      "url": "http://127.0.0.1:8000/assets/index-CYaMqJdg.js"
+    },
+    {
+      "type": "script",
+      "url": "http://127.0.0.1:8000/assets/index-Bfokwc3l.js"
+    },
+    {
+      "type": "script",
+      "url": "http://127.0.0.1:8000/~flock.js"
+    },
+    {
+      "type": "script",
+      "url": "http://127.0.0.1:8000/__l5e/events.124894084da8c432.js"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/cliente-1-DfIH4Hu3.jpg"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/cliente-2-D3d46YJd.jpg"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/cliente-3-6kxi_JR4.jpg"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/cliente-4-DnRQC5gY.jpg"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/cliente-5-CIhwTilG.jpg"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/tecnica-1-B86RiPqW.webp"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/tecnica-2-C5g31m5J.webp"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/tecnica-3-CuZfg-Kt.webp"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/tecnica-4-BhJY0iEn.webp"
+    },
+    {
+      "type": "fetch",
+      "url": "http://127.0.0.1:8000/__l5e/trackevents"
+    },
+    {
+      "type": "fetch",
+      "url": "http://127.0.0.1:8000/__l5e/trackevents"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/tecnica-5-CxYdaA2m.webp"
+    },
+    {
+      "type": "image",
+      "url": "http://127.0.0.1:8000/assets/garantia-15dias-Lczsq035.webp"
+    }
+  ],
+  "fonts.googleapis.com": [
+    {
+      "type": "stylesheet",
+      "url": "https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&display=swap"
+    }
+  ],
+  "cdn.utmify.com.br": [
+    {
+      "type": "script",
+      "url": "https://cdn.utmify.com.br/scripts/utms/latest.js"
+    },
+    {
+      "type": "script",
+      "url": "https://cdn.utmify.com.br/scripts/pixel/pixel.js"
+    }
+  ],
+  "app.trackerfy.com.br": [
+    {
+      "type": "script",
+      "url": "https://app.trackerfy.com.br/px.js"
+    }
+  ]
+}
